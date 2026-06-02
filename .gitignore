@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Spring Boot
+backend/lms/target/
+backend/**/target/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
